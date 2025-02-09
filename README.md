@@ -1,9 +1,9 @@
 # 15_leaflet-challenge
 
 # Deliverable(s)
-[index.html]<br/>
-[style.css]<br/>
-[logic.js]<br/>
+[index.html](https://github.com/wrighang/15_leaflet-challenge/blob/main/leaflet_part_1/index.html)<br/>
+[style.css](https://github.com/wrighang/15_leaflet-challenge/blob/main/leaflet_part_1/static/css/style.css)<br/>
+[logic.js](https://github.com/wrighang/15_leaflet-challenge/blob/main/leaflet_part_1/static/js/logic.js)<br/>
 
 
 ## Background
@@ -43,6 +43,8 @@ The USGS is interested in building a new set of tools that will allow them to vi
    - This will open a **Chrome** browser displaying the output from all linked files.
 6. **View the Output**  
    - The map and earthquake data will now be displayed in the browser.
+
+![Leaflet Map](https://github.com/wrighang/15_leaflet-challenge/blob/main/leaflet_part_1/leaflet_map_part1.png)
 
    ====================================================================
 ## CODING_PROCESS
