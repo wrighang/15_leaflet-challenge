@@ -3,8 +3,27 @@ body {
   margin: 0;
 }
 
-#map,
+#map-id,
 body,
 html {
   height: 100%;
 }
+.info.legend {
+  background: #FAF9F6;
+  border: 1px solid black;
+  padding: 5px;
+  border-radius: 6px;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  line-height: 20px; /* Adjusted line height */
+}
+
+.info.legend i {
+  width: 15px; 
+  height: 15px; 
+  display: inline-block;
+  margin-right: 6px; /* Adds spacing between box and text */
+  vertical-align: middle; /* Aligns color box with text */
+  border: 1px solid black; /* Optional: Adds border for better visibility */
+}
+
